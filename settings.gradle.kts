@@ -1,5 +1,6 @@
 rootProject.name = "polyworld-template"
 include(":app")
+include(":library")
 
 pluginManagement {
     repositories {
